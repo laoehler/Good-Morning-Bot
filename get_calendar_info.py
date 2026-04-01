@@ -10,7 +10,7 @@ from googleapiclient.discovery import build
 
 SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
 
-PIPER_MODEL = "/Users/larsoehler/Library/Python/3.9/lib/python/site-packages/en_GB-southern_english_female-low.onnx"
+PIPER_MODEL = "/Users/larsoehler/Library/Python/3.9/lib/python/site-packages/en_US-lessac-medium.onnx"
 OUTPUT_FILE = "output.wav"
 
 def speak_to_file(text):
