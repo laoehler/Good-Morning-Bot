@@ -1,4 +1,4 @@
-School	Year	salary_type	job_type	salary
+School	Year	salary_type	job_type  salary
 Amherst	2020	real_salaries	all_fac	115573.38
 Amherst	2020	real_salaries	full	155832.57
 Amherst	2020	real_salaries	assoc	110986.29
