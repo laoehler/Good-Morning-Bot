@@ -1,41 +1,169 @@
-School,Year,salary_type,job_type,salary
-Amherst,2020,real_salaries,all_fac,"115,573"
-Amherst,2020,real_salaries,full,"155,833"
-Amherst,2020,real_salaries,assoc,"110,986"
-Amherst,2020,real_salaries,assist,"93,329"
-Amherst,2020,cola_adj_salaries,all_fac,"125,628"
-Amherst,2020,cola_adj_salaries,full,"142,275"
-Amherst,2020,cola_adj_salaries,assoc,"101,330"
-Amherst,2020,cola_adj_salaries,assist,"85,859"
-Bates,2020,real_salaries,all_fac,"101,539"
-Bates,2020,real_salaries,full,"134,487"
-Bates,2020,real_salaries,assoc,"105,217"
-Bates,2020,real_salaries,assist,"85,862"
-Bates,2020,cola_adj_salaries,all_fac,"115,652"
-Bates,2020,cola_adj_salaries,full,"153,181"
-Bates,2020,cola_adj_salaries,assoc,"119,842"
-Bates,2020,cola_adj_salaries,assist,"85,862"
-Bowdoin,2020,real_salaries,all_fac,"114,601"
-Bowdoin,2020,real_salaries,full,"146,857"
-Bowdoin,2020,real_salaries,assoc,"113,680"
-Bowdoin,2020,real_salaries,assist,"91,352"
-Bowdoin,2020,cola_adj_salaries,all_fac,"107,266"
-Bowdoin,2020,cola_adj_salaries,full,"137,458"
-Bowdoin,2020,cola_adj_salaries,assoc,"106,405"
-Bowdoin,2020,cola_adj_salaries,assist,"85,506"
-Carleton,2020,real_salaries,all_fac,"117,620"
-Carleton,2020,real_salaries,full,"141,305"
-Carleton,2020,real_salaries,assoc,"107,210"
-Carleton,2020,real_salaries,assist,"88,514"
-Carleton,2020,cola_adj_salaries,all_fac,"114,797"
-Carleton,2020,cola_adj_salaries,full,"137,914"
-Carleton,2020,cola_adj_salaries,assoc,"104,637"
-Carleton,2020,cola_adj_salaries,assist,"86,389"
-Claremont McKenna,2020,real_salaries,all_fac,"138,183"
-Claremont McKenna,2020,real_salaries,full,"176,098"
-Claremont McKenna,2020,real_salaries,assoc,"128,042"
-Claremont McKenna,2020,real_salaries,assist,"108,670"
-Claremont McKenna,2020,cola_adj_salaries,all_fac,"47,397"
-Claremont McKenna,2020,cola_adj_salaries,full,"60,402"
-Claremont McKenna,2020,cola_adj_salaries,assoc,"43,918"
-Claremont McKenna,2020,cola_adj_salaries,assist,"37,274"
+School	Year	salary_type	job_type	salary
+Amherst	2020	real_salaries	all_fac	115573.38
+Amherst	2020	real_salaries	full	155832.57
+Amherst	2020	real_salaries	assoc	110986.29
+Amherst	2020	real_salaries	assist	93328.94
+Amherst	2020	cola_adj_salaries	all_fac	125628.26
+Amherst	2020	cola_adj_salaries	full	142275.14
+Amherst	2020	cola_adj_salaries	assoc	101330.48
+Amherst	2020	cola_adj_salaries	assist	85859.19
+Bates	2020	real_salaries	all_fac	101538.59
+Bates	2020	real_salaries	full	134487.13
+Bates	2020	real_salaries	assoc	105216.93
+Bates	2020	real_salaries	assist	85861.90
+Bates	2020	cola_adj_salaries	all_fac	115652.45
+Bates	2020	cola_adj_salaries	full	153180.84
+Bates	2020	cola_adj_salaries	assoc	119842.08
+Bates	2020	cola_adj_salaries	assist	85861.90
+Bowdoin	2020	real_salaries	all_fac	114600.56
+Bowdoin	2020	real_salaries	full	146856.94
+Bowdoin	2020	real_salaries	assoc	113680.19
+Bowdoin	2020	real_salaries	assist	91352.21
+Bowdoin	2020	cola_adj_salaries	all_fac	107266.12
+Bowdoin	2020	cola_adj_salaries	full	137458.10
+Bowdoin	2020	cola_adj_salaries	assoc	106404.66
+Bowdoin	2020	cola_adj_salaries	assist	85505.67
+Carleton	2020	real_salaries	all_fac	117620.10
+Carleton	2020	real_salaries	full	141305.40
+Carleton	2020	real_salaries	assoc	107210.25
+Carleton	2020	real_salaries	assist	88513.61
+Carleton	2020	cola_adj_salaries	all_fac	114797.22
+Carleton	2020	cola_adj_salaries	full	137914.07
+Carleton	2020	cola_adj_salaries	assoc	104637.20
+Carleton	2020	cola_adj_salaries	assist	86389.28
+Claremont McKenna	2020	real_salaries	all_fac	138183.20
+Claremont McKenna	2020	real_salaries	full	176097.86
+Claremont McKenna	2020	real_salaries	assoc	128041.61
+Claremont McKenna	2020	real_salaries	assist	108669.75
+Claremont McKenna	2020	cola_adj_salaries	all_fac	47396.84
+Claremont McKenna	2020	cola_adj_salaries	full	60401.57
+Claremont McKenna	2020	cola_adj_salaries	assoc	43918.27
+Claremont McKenna	2020	cola_adj_salaries	assist	37273.72
+Colby	2020	real_salaries	all_fac	111341.34
+Colby	2020	real_salaries	full	145970.84
+Colby	2020	real_salaries	assoc	105841.43
+Colby	2020	real_salaries	assist	88083.89
+Colby	2020	cola_adj_salaries	all_fac	135057.05
+Colby	2020	cola_adj_salaries	full	177062.63
+Colby	2020	cola_adj_salaries	assoc	128385.65
+Colby	2020	cola_adj_salaries	assist	106845.76
+Colgate	2020	real_salaries	all_fac	109417.39
+Colgate	2020	real_salaries	full	151653.61
+Colgate	2020	real_salaries	assoc	108479.27
+Colgate	2020	real_salaries	assist	92464.38
+Colgate	2020	cola_adj_salaries	all_fac	126267.67
+Colgate	2020	cola_adj_salaries	full	175008.27
+Colgate	2020	cola_adj_salaries	assoc	125185.08
+Colgate	2020	cola_adj_salaries	assist	106703.89
+Davidson	2020	real_salaries	all_fac	102411.45
+Davidson	2020	real_salaries	full	134729.29
+Davidson	2020	real_salaries	assoc	98242.92
+Davidson	2020	real_salaries	assist	79876.90
+Davidson	2020	cola_adj_salaries	all_fac	85206.33
+Davidson	2020	cola_adj_salaries	full	112094.77
+Davidson	2020	cola_adj_salaries	assoc	81738.11
+Davidson	2020	cola_adj_salaries	assist	66457.58
+Furman	2020	real_salaries	all_fac	87946.70
+Furman	2020	real_salaries	full	102722.95
+Furman	2020	real_salaries	assoc	82983.13
+Furman	2020	real_salaries	assist	70363.92
+Furman	2020	cola_adj_salaries	all_fac	97884.68
+Furman	2020	cola_adj_salaries	full	114330.64
+Furman	2020	cola_adj_salaries	assoc	92360.22
+Furman	2020	cola_adj_salaries	assist	78315.04
+Grinnell	2020	real_salaries	all_fac	109613.09
+Grinnell	2020	real_salaries	full	139557.74
+Grinnell	2020	real_salaries	assoc	105907.67
+Grinnell	2020	real_salaries	assist	87727.22
+Grinnell	2020	cola_adj_salaries	all_fac	132412.61
+Grinnell	2020	cola_adj_salaries	full	168585.75
+Grinnell	2020	cola_adj_salaries	assoc	127936.47
+Grinnell	2020	cola_adj_salaries	assist	105974.48
+Hamilton	2020	real_salaries	all_fac	107611.34
+Hamilton	2020	real_salaries	full	142149.28
+Hamilton	2020	real_salaries	assoc	108150.00
+Hamilton	2020	real_salaries	assist	88382.78
+Hamilton	2020	cola_adj_salaries	all_fac	133976.12
+Hamilton	2020	cola_adj_salaries	full	176975.85
+Hamilton	2020	cola_adj_salaries	assoc	134646.75
+Hamilton	2020	cola_adj_salaries	assist	110036.56
+Haverford	2020	real_salaries	all_fac	100982.76
+Haverford	2020	real_salaries	full	131175.59
+Haverford	2020	real_salaries	assoc	101031.32
+Haverford	2020	real_salaries	assist	84959.35
+Haverford	2020	cola_adj_salaries	all_fac	29890.90
+Haverford	2020	cola_adj_salaries	full	38827.97
+Haverford	2020	cola_adj_salaries	assoc	29905.27
+Haverford	2020	cola_adj_salaries	assist	25147.97
+Macalester	2020	real_salaries	all_fac	98937.34
+Macalester	2020	real_salaries	full	126583.01
+Macalester	2020	real_salaries	assoc	95132.95
+Macalester	2020	real_salaries	assist	79774.80
+Macalester	2020	cola_adj_salaries	all_fac	100322.46
+Macalester	2020	cola_adj_salaries	full	128355.17
+Macalester	2020	cola_adj_salaries	assoc	96464.81
+Macalester	2020	cola_adj_salaries	assist	80891.65
+Middlebury	2020	real_salaries	all_fac	112177.21
+Middlebury	2020	real_salaries	full	140387.28
+Middlebury	2020	real_salaries	assoc	104368.11
+Middlebury	2020	real_salaries	assist	90234.19
+Middlebury	2020	cola_adj_salaries	all_fac	115318.17
+Middlebury	2020	cola_adj_salaries	full	144318.12
+Middlebury	2020	cola_adj_salaries	assoc	107290.42
+Middlebury	2020	cola_adj_salaries	assist	92760.75
+Oberlin	2020	real_salaries	all_fac	97482.62
+Oberlin	2020	real_salaries	full	122742.26
+Oberlin	2020	real_salaries	assoc	94994.30
+Oberlin	2020	real_salaries	assist	72109.46
+Oberlin	2020	cola_adj_salaries	all_fac	119806.14
+Oberlin	2020	cola_adj_salaries	full	150850.24
+Oberlin	2020	cola_adj_salaries	assoc	116747.99
+Oberlin	2020	cola_adj_salaries	assist	88622.53
+Pomona	2020	real_salaries	all_fac	126433.41
+Pomona	2020	real_salaries	full	160490.68
+Pomona	2020	real_salaries	assoc	120016.47
+Pomona	2020	real_salaries	assist	98629.45
+Pomona	2020	cola_adj_salaries	all_fac	43366.66
+Pomona	2020	cola_adj_salaries	full	55048.30
+Pomona	2020	cola_adj_salaries	assoc	41165.65
+Pomona	2020	cola_adj_salaries	assist	33829.90
+Swarthmore	2020	real_salaries	all_fac	123618.93
+Swarthmore	2020	real_salaries	full	156328.64
+Swarthmore	2020	real_salaries	assoc	111489.46
+Swarthmore	2020	real_salaries	assist	87689.87
+Swarthmore	2020	cola_adj_salaries	all_fac	108290.18
+Swarthmore	2020	cola_adj_salaries	full	136943.89
+Swarthmore	2020	cola_adj_salaries	assoc	97664.77
+Swarthmore	2020	cola_adj_salaries	assist	76816.33
+Vassar	2020	real_salaries	all_fac	111749.42
+Vassar	2020	real_salaries	full	142788.30
+Vassar	2020	real_salaries	assoc	111493.42
+Vassar	2020	real_salaries	assist	89257.63
+Vassar	2020	cola_adj_salaries	all_fac	108955.68
+Vassar	2020	cola_adj_salaries	full	139218.59
+Vassar	2020	cola_adj_salaries	assoc	108706.08
+Vassar	2020	cola_adj_salaries	assist	87026.19
+Washington and Lee	2020	real_salaries	all_fac	118671.58
+Washington and Lee	2020	real_salaries	full	143853.24
+Washington and Lee	2020	real_salaries	assoc	115712.37
+Washington and Lee	2020	real_salaries	assist	95154.32
+Washington and Lee	2020	cola_adj_salaries	all_fac	135641.62
+Washington and Lee	2020	cola_adj_salaries	full	164424.25
+Washington and Lee	2020	cola_adj_salaries	assoc	132259.24
+Washington and Lee	2020	cola_adj_salaries	assist	108761.39
+Wesleyan	2020	real_salaries	all_fac	111713.59
+Wesleyan	2020	real_salaries	full	158454.83
+Wesleyan	2020	real_salaries	assoc	111007.56
+Wesleyan	2020	real_salaries	assist	91207.26
+Wesleyan	2020	cola_adj_salaries	all_fac	108809.04
+Wesleyan	2020	cola_adj_salaries	full	154335.00
+Wesleyan	2020	cola_adj_salaries	assoc	108121.36
+Wesleyan	2020	cola_adj_salaries	assist	88835.87
+Williams	2020	real_salaries	all_fac	122390.65
+Williams	2020	real_salaries	full	149902.98
+Williams	2020	real_salaries	assoc	106039.74
+Williams	2020	real_salaries	assist	93837.29
+Williams	2020	cola_adj_salaries	all_fac	121289.13
+Williams	2020	cola_adj_salaries	full	148553.85
+Williams	2020	cola_adj_salaries	assoc	105085.38
+Williams	2020	cola_adj_salaries	assist	92992.75
