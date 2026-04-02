@@ -1,0 +1,41 @@
+School,Year,salary_type,job_type,salary
+Amherst,2020,real_salaries,all_fac,115573.38
+Amherst,2020,real_salaries,full,155832.57
+Amherst,2020,real_salaries,assoc,110986.29
+Amherst,2020,real_salaries,assist,93328.94
+Amherst,2020,cola_adj_salaries,all_fac,125628.26
+Amherst,2020,cola_adj_salaries,full,142275.14
+Amherst,2020,cola_adj_salaries,assoc,101330.48
+Amherst,2020,cola_adj_salaries,assist,85859.19
+Bates,2020,real_salaries,all_fac,101538.59
+Bates,2020,real_salaries,full,134487.13
+Bates,2020,real_salaries,assoc,105216.93
+Bates,2020,real_salaries,assist,85861.90
+Bates,2020,cola_adj_salaries,all_fac,115652.45
+Bates,2020,cola_adj_salaries,full,153180.84
+Bates,2020,cola_adj_salaries,assoc,119842.08
+Bates,2020,cola_adj_salaries,assist,85861.90
+Bowdoin,2020,real_salaries,all_fac,114600.56
+Bowdoin,2020,real_salaries,full,146856.94
+Bowdoin,2020,real_salaries,assoc,113680.19
+Bowdoin,2020,real_salaries,assist,91352.21
+Bowdoin,2020,cola_adj_salaries,all_fac,107266.12
+Bowdoin,2020,cola_adj_salaries,full,137458.10
+Bowdoin,2020,cola_adj_salaries,assoc,106404.66
+Bowdoin,2020,cola_adj_salaries,assist,85505.67
+Carleton,2020,real_salaries,all_fac,117620.10
+Carleton,2020,real_salaries,full,141305.40
+Carleton,2020,real_salaries,assoc,107210.25
+Carleton,2020,real_salaries,assist,88513.61
+Carleton,2020,cola_adj_salaries,all_fac,114797.22
+Carleton,2020,cola_adj_salaries,full,137914.07
+Carleton,2020,cola_adj_salaries,assoc,104637.20
+Carleton,2020,cola_adj_salaries,assist,86389.28
+Claremont McKenna,2020,real_salaries,all_fac,138183.20
+Claremont McKenna,2020,real_salaries,full,176097.86
+Claremont McKenna,2020,real_salaries,assoc,128041.61
+Claremont McKenna,2020,real_salaries,assist,108669.75
+Claremont McKenna,2020,cola_adj_salaries,all_fac,47396.84
+Claremont McKenna,2020,cola_adj_salaries,full,60401.57
+Claremont McKenna,2020,cola_adj_salaries,assoc,43918.27
+Claremont McKenna,2020,cola_adj_salaries,assist,37273.72
