@@ -1,41 +1,45 @@
-School,Year,salary_type,job_type,salary
-Amherst,2020,real_salaries,all_fac,115573.38
-Amherst,2020,real_salaries,full,155832.57
-Amherst,2020,real_salaries,assoc,110986.29
-Amherst,2020,real_salaries,assist,93328.94
-Amherst,2020,cola_adj_salaries,all_fac,125628.26
-Amherst,2020,cola_adj_salaries,full,142275.14
-Amherst,2020,cola_adj_salaries,assoc,101330.48
-Amherst,2020,cola_adj_salaries,assist,85859.19
-Bates,2020,real_salaries,all_fac,101538.59
-Bates,2020,real_salaries,full,134487.13
-Bates,2020,real_salaries,assoc,105216.93
-Bates,2020,real_salaries,assist,85861.90
-Bates,2020,cola_adj_salaries,all_fac,115652.45
-Bates,2020,cola_adj_salaries,full,153180.84
-Bates,2020,cola_adj_salaries,assoc,119842.08
-Bates,2020,cola_adj_salaries,assist,85861.90
-Bowdoin,2020,real_salaries,all_fac,114600.56
-Bowdoin,2020,real_salaries,full,146856.94
-Bowdoin,2020,real_salaries,assoc,113680.19
-Bowdoin,2020,real_salaries,assist,91352.21
-Bowdoin,2020,cola_adj_salaries,all_fac,107266.12
-Bowdoin,2020,cola_adj_salaries,full,137458.10
-Bowdoin,2020,cola_adj_salaries,assoc,106404.66
-Bowdoin,2020,cola_adj_salaries,assist,85505.67
-Carleton,2020,real_salaries,all_fac,117620.10
-Carleton,2020,real_salaries,full,141305.40
-Carleton,2020,real_salaries,assoc,107210.25
-Carleton,2020,real_salaries,assist,88513.61
-Carleton,2020,cola_adj_salaries,all_fac,114797.22
-Carleton,2020,cola_adj_salaries,full,137914.07
-Carleton,2020,cola_adj_salaries,assoc,104637.20
-Carleton,2020,cola_adj_salaries,assist,86389.28
-Claremont McKenna,2020,real_salaries,all_fac,138183.20
-Claremont McKenna,2020,real_salaries,full,176097.86
-Claremont McKenna,2020,real_salaries,assoc,128041.61
-Claremont McKenna,2020,real_salaries,assist,108669.75
-Claremont McKenna,2020,cola_adj_salaries,all_fac,47396.84
-Claremont McKenna,2020,cola_adj_salaries,full,60401.57
-Claremont McKenna,2020,cola_adj_salaries,assoc,43918.27
-Claremont McKenna,2020,cola_adj_salaries,assist,37273.72
+Year,Tuition_Type,Tuition,Inflation_Factor
+1999,nominal,22228.00,1.553487395
+1999,inflation_adj,34530.92,1.553487395
+2000,nominal,23094.00,1.502967481
+2000,inflation_adj,34709.53,1.502967481
+2001,nominal,23995.00,1.462209041
+2001,inflation_adj,35085.71,1.462209041
+2002,nominal,24930.00,1.438638134
+2002,inflation_adj,35865.25,1.438638134
+2003,nominal,25902.27,1.406581522
+2003,inflation_adj,36433.65,1.406581522
+2004,nominal,27171.48,1.37009529
+2004,inflation_adj,37227.52,1.37009529
+2005,nominal,28667.00,1.325197132
+2005,inflation_adj,37989.43,1.325197132
+2006,nominal,30194.00,1.283784723
+2006,inflation_adj,38762.60,1.283784723
+2007,nominal,31794.00,1.248232388
+2007,inflation_adj,39686.30,1.248232388
+2008,nominal,33479.00,1.202078002
+2008,inflation_adj,40244.37,1.202078002
+2009,nominal,35124.00,1.206369998
+2009,inflation_adj,42372.54,1.206369998
+2010,nominal,36683.00,1.186901529
+2010,inflation_adj,43539.11,1.186901529
+2011,nominal,38886.00,1.150583047
+2011,inflation_adj,44741.57,1.150583047
+2012,nominal,40809.00,1.127255068
+2012,inflation_adj,46002.15,1.127255068
+2013,nominal,42849.00,1.110981854
+2013,inflation_adj,47604.46,1.110981854
+2014,nominal,45377.00,1.093247331
+2014,inflation_adj,49608.28,1.093247331
+2015,nominal,46966.00,1.091951211
+2015,inflation_adj,51284.58,1.091951211
+2016,nominal,48376.00,1.078347714
+2016,inflation_adj,52166.15,1.078347714
+2017,nominal,49949.00,1.055854275
+2017,inflation_adj,52738.87,1.055854275
+2018,nominal,51447.00,1.030680148
+2018,inflation_adj,53025.40,1.030680148
+2019,nominal,52524.00,1.012336842
+2019,inflation_adj,53171.98,1.012336842
+2020,nominal,55000.00,1
+2020,inflation_adj,55000.00,1
