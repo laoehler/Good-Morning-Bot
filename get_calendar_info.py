@@ -10,13 +10,13 @@ from googleapiclient.discovery import build
 
 SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
 
-PIPER_MODEL = "/Users/larsoehler/Library/Python/3.9/lib/python/site-packages/en_US-lessac-medium.onnx"
+PIPER_MODEL = "/Users/larsoehler/Documents/GitHub/Good-Morning-Bot/en_GB-southern_english_female-low.onnx"
 OUTPUT_FILE = "output.wav"
 
 def speak_to_file(text):
     try:
         process = subprocess.Popen(
-            ["/Users/larsoehler/Library/Python/3.9/bin/piper", "--model", PIPER_MODEL, "--output_file", OUTPUT_FILE],
+            ["/Users/larsoehler/Documents/GitHub/Good-Morning-Bot/venv/bin/piper", "--model", PIPER_MODEL, "--output_file", OUTPUT_FILE],
             stdin=subprocess.PIPE,
             text=True
         )
