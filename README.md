@@ -17,7 +17,7 @@
 
 https://github.com/user-attachments/assets/b4e93849-9198-4ea1-9237-5e8b6342bc25
 
- — demo of the rat greeting in action  
+ — demo of the rat greeting in action (evidence that the PIR sensor method worked at one point in time)
 
 ---
 
