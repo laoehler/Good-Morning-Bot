@@ -181,7 +181,7 @@ The rat will not re-trigger during playback or within the cooldown window (equal
 |---|---|
 | `monitor_detect_speak.py` | Main script — switch + PIR motion trigger |
 | `switch_speak.py` | Simplified script — switch toggle trigger only |
-| `generate_briefing.sh` | Cron script — fetches data, generates `output.wav` |
+| `load_write.py` | Cron script — fetches data, generates `output.wav` |
 | `output.wav` | Generated audio file played by the rat |
 | `credentials.json` | Google Calendar API credentials *(not committed)* |
 | `token.json` | OAuth token, auto-generated on first run *(not committed)* |
