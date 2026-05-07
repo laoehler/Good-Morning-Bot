@@ -1,5 +1,5 @@
 # Good-Morning-Bot
-# 🐀 Talking Rat — Good Morning Bot
+# Talking Rat
 
 > A Raspberry Pi-powered morning briefing system housed inside an stuffed animal.  
 > Speaks the day's weather and schedule aloud.
