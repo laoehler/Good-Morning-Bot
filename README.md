@@ -62,7 +62,8 @@ People have difficulty planning their mornings and keeping track of their schedu
 | Speaker | Small JBL Clip 3 | Not the most elegant but functional |
 | Motion sensor | PIR | Detects presence in front of rat |
 | Toggle switch | Manual arm/disarm of motion detection | The only way to trigger the speech in final iteration of project |
-| Enclosure | Stuffed Animal | Houses Pi and Switch |
+| Enclosure | Stuffed animal | Houses 3d printed enclosure |
+| 3d Printed enclosure | [Link](https://www.tinkercad.com/things/2W1J9rRLTGE-rat-stand/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=G_Gb83v5bLWUJvZuNbjx6W-zXUW2mn6wIdAH4Ge-msU) |Houses the pi, switch, and PIR sensor |
 | Power | 5V 3A USB-C supply | Powers Pi + Speaker |
 
 ---
@@ -157,7 +158,7 @@ With the software stable, everything was fitted inside the stuffed animal. The J
 
 ### Phase 5 — Refinement & adaptation
 
-Two things changed in the final iteration. First, the threading model in the trigger script was removed in favour of a simpler single-loop polling approach. Second, the PIR motion sensor did not reliably trigger for an unknown reason, so at the last minute the entire project switched to a switch.
+Two things changed in the final iteration. First, the threading model in the trigger script was removed in favour of a simpler single-loop polling approach. Second, the PIR motion sensor did not reliably trigger for an unknown reason, so at the last minute the entire project switched to a switch. Following these changes, the motion sensor system was reimplemented based on code from Professor Mundy. The belly-scratch mechanic remained broken however, likely due to the stuffed rats fur interfering with the infrared sensor.
 
 ---
 
@@ -173,7 +174,14 @@ Two things changed in the final iteration. First, the threading model in the tri
 
 The rat will not re-trigger during playback or within the cooldown window (equal to audio duration) after playback ends.
 
----
+## Notes for Future Development
+
+
+Future changes to make to this design:
+> Cut a hole for the motion sensor in the belly of the rat, so the motion sensor can be reliably triggered.
+> Increase the frequency at which the load_write.py script is run, and take into account what time it is when it is run, so that the rat does not inform the user of events that have already happened.
+> Connect more APIs so that the user can be briefed on more than just their schedule and weather.
+
 
 ## File Reference
 
